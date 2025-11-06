@@ -111,20 +111,5 @@ These real-world snapshots validate the model’s robust detection across variou
 
 ---
 
-## Citation  
-If you use this work for research or deployment, please cite it as:  
-```bibtex
-@project{smmod2025,
-  title={MaskHelmetDetection-SMMOD: Single Model Multiple Object Detection},
-  author={Varun Varatharajan},
-  year={2025},
-  institution={[Your Institution]},
-  note={YOLOv5-based multi-task detection of masks and ID cards}
-}
-
-```
-
----
-
 ## Acknowledgement
 - Developed as part of Technical Answers for Real World Problems (CSE1901), School of Computer Science and Engineering, VIT University.
